@@ -110,7 +110,7 @@ content:"-";
 }
   .hero {
     background-image:url("../imagenes/patron-1.png");
-    block-size: 60px;
+    block-size: 50px;
   }  
   ::selection {
     background-color: red;
